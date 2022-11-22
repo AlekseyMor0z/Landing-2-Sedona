@@ -1,3 +1,3 @@
-# Личный проект «{Sedona}»
+# Личный проект «Sedona»
 
-* Студент: [{Moroz Aleksey}]({https://github.com/AlekseyMor0z}).
+* Студент: [Moroz Aleksey](https://github.com/AlekseyMor0z).
